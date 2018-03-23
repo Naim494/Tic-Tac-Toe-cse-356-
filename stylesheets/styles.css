@@ -1,0 +1,66 @@
+
+.formContainer {
+  margin-top: 2%;
+}
+
+.formContainer2 {
+  margin-top: 2%;
+  margin-left: 7%;
+}
+
+.greetingContainer {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 5%;
+  height: 120px;
+}
+
+.boardContainer {
+  margin: 0 auto;
+  margin-top: 40px;
+  padding-left: 570px;
+  background-color: #ffff99;
+  height: 320px;
+
+}
+
+.row {
+  font-size: 0px;
+  margin:0 auto;
+}
+
+.row > div {
+  display: inline-block;
+  font-size: 90px;
+  border: solid 1px black;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  vertical-align: top;
+  line-height: 100px;
+}
+
+p {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.leftDiv {
+  float: left;
+  width: 50%;
+  height: 200px;
+  background-color: #ff4d4d;
+}
+
+.rightDiv {
+  float: right;
+  width: 50%;
+  height: 200px;
+  background-color: #80aaff;
+}
+
+.footer {
+  background-color: #80ff80;
+
+}
